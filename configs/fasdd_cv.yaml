@@ -1,0 +1,9 @@
+# FASDD_CV (YOLO format). Set `path` to the absolute location of the dataset.
+path: /path/to/datasets/FASDD_CV  # absolute path
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: fire
+  1: smoke

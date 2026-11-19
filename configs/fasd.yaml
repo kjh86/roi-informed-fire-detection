@@ -1,0 +1,9 @@
+# FASD (YOLO format). Set `path` to the absolute location of the dataset.
+path: /path/to/datasets/FASD  # absolute path
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: fire
+  1: smoke

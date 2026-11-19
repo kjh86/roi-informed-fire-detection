@@ -1,0 +1,10 @@
+_original/
+datasets/
+runs/
+data/
+*.pt
+__pycache__/
+.DS_Store
+.venv*/
+*.bak
+*.egg-info/

@@ -1,0 +1,9 @@
+torch==2.0.0
+torchvision==0.15.1
+ultralytics==8.4.17
+numpy
+pandas
+opencv-python
+PyWavelets
+scikit-image
+matplotlib
