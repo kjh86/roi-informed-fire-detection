@@ -3,7 +3,7 @@
 Official code for the paper:
 
 > **ROI-Based Visual Characteristic Analysis and Feature Enhancement for Fire and Smoke Detection across Multiple Data Distributions**
-> Jinho Kim and Gye-Young Kim, *Fire* (MDPI), 2026 (under review).
+> Jinho Kim and Gye-Young Kim. Manuscript prepared for submission to *Fire* (MDPI), 2026.
 
 This repository provides
 
@@ -141,7 +141,7 @@ If you find this work useful, please cite:
   author  = {Kim, Jinho and Kim, Gye-Young},
   journal = {Fire},
   year    = {2026},
-  note    = {Under review}
+  note    = {Manuscript prepared for submission}
 }
 ```
 
